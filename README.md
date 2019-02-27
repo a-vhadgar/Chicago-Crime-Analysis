@@ -19,7 +19,7 @@ After cleaning, the data set has 12 columns:
 The next step is to research more about crime analysis and why it is important. It helps police officers have to search for ways to discover patterns and similarities between incidents for years.
 Insights:
  1)	Crime over the years:
- ![Alt text](C:\Users\AKSHATA\Desktop\years.png?raw=true "Title")
+ ![image](https://user-images.githubusercontent.com/43126482/53515267-907b8e80-3a97-11e9-9335-ad875bfebd8d.png)
  
     •	I overserved that crime rate has decreased over the years and for 2017 there is significate drop in crime count. As Chicago crime       department has adopted Data-driven policing which uses information from multiple sources to help police learn where crimes are     happening and where they are likely to happen. Also, in 2017 homicide rate has dropped by 10 %.
 
