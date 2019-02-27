@@ -1,18 +1,18 @@
 Tableau :https://public.tableau.com/profile/akshata1035#!/vizhome/ChicagoCrimeAnalysis_15/Story1
 
 
-I created some visualizations in tableau and created a story. I have published the workbook on Tableau public forum.(https://public.tableau.com/profile/akshata1035#!/vizhome/ChicagoCrimeAnalysis_15/Story1 ). The first in performing data analysis on any dataset is to look at the data and understand the data fields.
+I created some visualizations in tableau and created a story. I have published the workbook on Tableau public forum.(https://public.tableau.com/profile/akshata1035#!/vizhome/ChicagoCrimeAnalysis_15/Story1 ). The first step in performing data analysis  is to look at the data and understand the data fields.
 After understanding the dataset and fields, next step is to remove unnecessary data fields and null values. I have used Pandas and Numpy to perform these operations. 
 After cleaning, the data set has 12 columns:
- 1)	Date: Which has date and time when incident happened.
- 2)	Block: Address where the incident happened.
- 3)	Primary Type: Type of crime
- 4)	Description: Brief description about crime
- 5)	Location Description: Description of location where crime happened.
- 6)	Arrest: Indicates whether an arrest was made.
- 7)	Community Area
- 8)	Year: This is derived column from date.
- 9)	Day: This is also a derived column to get day of week from date.
+ 1)	 Date: Which has date and time when incident happened.
+ 2)	 Block: Address where the incident happened.
+ 3)	 Primary Type: Type of crime
+ 4)	 Description: Brief description about crime
+ 5)	 Location Description: Description of location where crime happened.
+ 6)	 Arrest: Indicates whether an arrest was made.
+ 7)	 Community Area
+ 8)	 Year: This is derived column from date.
+ 9)	 Day: This is also a derived column to get day of week from date.
  10)	Latitude: The latitude of the location where the incident occurred. 
  11)	Longitude: The longitude of the location where the incident occurred.
  12)	Location - The location where the incident occurred in a format that allows for creation of maps.
@@ -29,7 +29,7 @@ Insights:
  ![image](https://user-images.githubusercontent.com/43126482/53515347-c28cf080-3a97-11e9-918c-e7c5f10e097a.png)
  
     •	Most of the crimes in Chicago has happened during July and August.
-    •	Also, according to the annual National Crime Victimization Survey, crime increases in summer time. As temperature increases,    people drive out of door more and during day hours people spend most of the time outside which increases the crime. This rises the amount of people in public and the amount of time that homes are left empty. 
+    •	Also, according to the annual National Crime Victimization Survey, crime increases in summer time. As temperature increases,    people drive out of door more and during day hours people spend most of the time outside which increases the crime rate. This rises the amount of people in public and the amount of time that homes are left empty. 
 
  3)	Day wise Crime count:
  ![image](https://user-images.githubusercontent.com/43126482/53515370-d46e9380-3a97-11e9-973c-65a3b53195d0.png)
