@@ -24,21 +24,23 @@ Insights:
     •	I overserved that crime rate has decreased over the years and for 2017 there is significate drop in crime count. As Chicago crime       department has adopted Data-driven policing which uses information from multiple sources to help police learn where crimes are     happening and where they are likely to happen. Also, in 2017 homicide rate has dropped by 10 %.
 
  2)	Crime over the months:
+ ![image](https://user-images.githubusercontent.com/43126482/53515347-c28cf080-3a97-11e9-918c-e7c5f10e097a.png)
  
     •	Most of the crimes in Chicago has happened during July and August.
     •	Also, according to the annual National Crime Victimization Survey, crime increases in summer time. As temperature increases,    people drive out of door more and during day hours people spend most of the time outside which increases the crime. This rises the amount of people in public and the amount of time that homes are left empty. 
 
  3)	Day wise Crime count:
+ ![image](https://user-images.githubusercontent.com/43126482/53515370-d46e9380-3a97-11e9-973c-65a3b53195d0.png)
  
     •	After plotting graph using Matplotlib, I observed that most of the crimes in Chicago happened on Friday.
     •	As Friday is last working day, most people tend to go home late. Spend more times in outside. 
 
  4)	Top 5 crime location:
-    •	In order to understand locations where most of the crimes happened I used value_counts() function to get top crime location in  Chicago 
- 
+ ![image](https://user-images.githubusercontent.com/43126482/53515396-e5b7a000-3a97-11e9-9b74-c644e2e00aac.png)
+    •	In order to understand locations where most of the crimes happened I used value_counts() function to get top crime location in      Chicago.
     •	After plotting bar graph in tableau, I observed that most of the crimes happens on street, residence, apartments and sidewalk.
     •	This postulate my findings in point number 2.
 
  5)	Crimes per block
- 
+ ![image](https://user-images.githubusercontent.com/43126482/53515433-f9fb9d00-3a97-11e9-94a1-2ebba20b20c6.png)
     •	After searching this location on internet, I found out that North state st and West terminal street are very close to downtown.  Chicago downtown has lots of attractive activities  so it gives opportunities to criminals to rob.
