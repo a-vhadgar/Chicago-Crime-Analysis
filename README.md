@@ -17,6 +17,8 @@ After cleaning, the data set has 12 columns:
  11)	Longitude: The longitude of the location where the incident occurred.
  12)	Location - The location where the incident occurred in a format that allows for creation of maps.
 The next step is to research more about crime analysis and why it is important. It helps police officers have to search for ways to discover patterns and similarities between incidents for years.
+
+
 Insights:
  1)	Crime over the years:
  ![image](https://user-images.githubusercontent.com/43126482/53515267-907b8e80-3a97-11e9-9335-ad875bfebd8d.png)
